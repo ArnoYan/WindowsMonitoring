@@ -1,3 +1,5 @@
+The data below can help analysts detect any "unexpected"/"suspicious"/"vulnerable" settings applied to accounts. (During account creation (EventID: 4720) or modification (EventID:4738)
+
 User Account Control Values translated in EventData format with "%%"
 
 CONSTANT ACCESS-MASK  VALUE
